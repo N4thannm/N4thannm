@@ -15,7 +15,7 @@
   <img align="center" alt="Nathan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nathan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Nathan-KT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-  <img align="right" alt="draven-pic" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/media/EZMzdhRXsAEGI09?format=jpg&name=4096x4096">
+  <img align="right" alt="ramon-pic" height="150" style="border-radius:50px;" src="https://www.rioverdeagora.com.br/uploads/noticias/28186ea6dea04e89bf27a7fb7151a39f_1643753457.jpg">
 </div>
   
   ##
