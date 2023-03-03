@@ -1,4 +1,11 @@
-Nathan Miguel ~~ BÍCEPS 43CM ~ 180 Q.I
+## Oi estou fazendo meu TCC 🥵
+
+•TCC
+•Marketing
+•Empreendedorismo
+•Banco de Dados
+•Programação
+•Desing
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LxD5k&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LxD5k&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
