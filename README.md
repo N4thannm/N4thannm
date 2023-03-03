@@ -7,10 +7,10 @@
 •Programação 👩‍💻<br>
 •Desing 🖼<br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N4thannm&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N4thannm&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N4thannm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<div theme=radical style="display: inline_block"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="Nathann-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Nathan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nathan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
