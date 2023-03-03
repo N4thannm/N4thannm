@@ -1,11 +1,11 @@
 ## Oi estou fazendo meu TCC 🥵
 
-•TCC
-•Marketing
-•Empreendedorismo
-•Banco de Dados
-•Programação
-•Desing
+•TCC<br>
+•Marketing<br>
+•Empreendedorismo<br>
+•Banco de Dados<br>
+•Programação<br>
+•Desing<br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LxD5k&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LxD5k&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
