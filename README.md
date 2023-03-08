@@ -1,10 +1,10 @@
-## Oi estou fazendo meu TCC 🥵
+## Hi!
 
-•TCC 💀<br>
+•TCC 🔨<br>
 •Marketing 💵<br>
-•Empreendedorismo 💹<br>
-•Banco de Dados 🎲<br>
-•Programação 👩‍💻<br>
+•Entrepreneurship 💹<br>
+•Database 🎲<br>
+•Programming 👩‍💻<br>
 •Desing 🖼<br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N4thannm&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
